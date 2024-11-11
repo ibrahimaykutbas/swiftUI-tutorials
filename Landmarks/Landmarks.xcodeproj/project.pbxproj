@@ -82,7 +82,7 @@
 		1B60C3042CE2A8A100F77A88 /* Exceptions for "MacLandmarks" folder in "Landmarks" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				LandmarkCommands.swift,
+				Helpers/LandmarkCommands.swift,
 			);
 			target = 1B3117482CDBA0DD00EF4FAB /* Landmarks */;
 		};
